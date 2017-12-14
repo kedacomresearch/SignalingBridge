@@ -1,0 +1,25 @@
+{
+  "name": "signal-bridge",
+  "version": "0.4.0",
+  "description": "webrtc signaling bridge",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "yuanjunjie",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "colors": "latest",
+    "mocha": "latest",
+<<<<<<< HEAD
+	"axios": "latest"
+=======
+    "ws": "latest"
+>>>>>>> 8c93b6fc0cc8a34f39db21846bf8786dfbbb0b2c
+  }
+}

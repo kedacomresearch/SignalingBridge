@@ -8,18 +8,15 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+	"start": "node index.js"
   },
   "author": "yuanjunjie",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.17.1",
     "colors": "latest",
     "mocha": "latest",
-<<<<<<< HEAD
-	"axios": "latest"
-=======
     "ws": "latest"
->>>>>>> 8c93b6fc0cc8a34f39db21846bf8786dfbbb0b2c
   }
 }
